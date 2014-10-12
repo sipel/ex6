@@ -1,0 +1,7 @@
+ex06
+
+?/20
+
+s'il vous plaît utiliser le fichier pubspec.yaml
+
+utiliser le dossier lib  (voir mes exemples)
