@@ -1,0 +1,17 @@
+ex06
+
+13/20
+
+attention: formatage (voir: https://www.dartlang.org/articles/style-guide/)
+
+-4
+utiliser le dossier lib  (voir mes exemples)
+
+-1 
+se il vous plaît, utiliser les types pour des paramètres de fonctions
+differenceDate(var date1, var date2){
+
+6.5
+Prepare two lists, one with the names of players and their CLUBS,
+-2
+se il vous plaît utiliser des listes et non les maps
